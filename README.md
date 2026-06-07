@@ -16,7 +16,7 @@ Prior studies demonstrate that linguistic cues serve as reliable indicators of p
   * Provide a foundational tool to support early detection and monitoring systems.
 
 ## 📊 Dataset
-* **Source:** [Mental Health Corpus (Kaggle)](https://www.kaggle.com/) *(Replace this with your actual dataset link)*
+* **Source:** [Mental Health Corpus (Kaggle)](https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus) 
 * **Original Size:** 27,977 entries
 * **Sample Used for This Project:** 1,000 entries
 * **Description:** Text data containing statements from individuals expressing various emotions, mental health struggles, and general day-to-day sentiments.
