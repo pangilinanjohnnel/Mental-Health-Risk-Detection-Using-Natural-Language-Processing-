@@ -7,7 +7,7 @@ Social media and online forums have become primary outlets for individuals to ex
 
 Prior studies demonstrate that linguistic cues serve as reliable indicators of psychological states (De Choudhury et al., 2013). There is a critical need for automated systems to detect these early signs and support researchers and mental health professionals.
 
-## 🎯 Project Objectives
+## 🎯 Objectives
 * **General Objective:** Develop a Natural Language Processing (NLP) model that classifies text into binary risk categories:
   * `0 (Normal)`: No indication of mental health distress.
   * `1 (At-Risk)`: Shows signs of anxiety, depression, or other mental health issues.
