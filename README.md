@@ -1,7 +1,5 @@
 # Mental Health Risk Detection Using NLP
 
-An automated system capable of detecting early signs of mental health issues (anxiety, depression, distress) through text analysis using a fine-tuned DistilBERT architecture.
-
 ## 📌 Problem Statement
 Social media and online forums have become primary outlets for individuals to express distress (Guntuku et al., 2017). However, manually identifying these signals at scale is incredibly difficult and time-consuming. 
 
