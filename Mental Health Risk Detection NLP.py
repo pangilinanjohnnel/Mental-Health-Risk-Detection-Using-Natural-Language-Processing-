@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from transformers import DistilBertTokenizerFast, DistilBertForSequenceClassification, Trainer, TrainingArguments
 
-df=pd.read_csv(r"C:\Users\Johnnel\Desktop\TIP folder\1st year 2nd sem\advance data science\activity\Final\archive\mental_health.csv").sample(
+df = pd.read_csv(r"archive\mental_health.csv").sample(
     1000, random_state=42)
 
 X=df["text"].tolist()
